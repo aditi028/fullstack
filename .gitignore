@@ -2,6 +2,7 @@
 
 #local files
 text
+buildAndDeploy.txt
 
 # dependencies
 node_modules
